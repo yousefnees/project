@@ -1,0 +1,25 @@
+.category-button {
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-right: 10px;
+}
+.Button {
+  width: 300px;
+  height: 300px;
+  margin-right: 100px;
+}
+.ButtonB {
+  width: 300px;
+  height: 300px;
+  margin-right: 100px;
+}
+.ButtonC {
+  width: 300px;
+  height: 300px;
+}
+.product__buttons {
+  display: flex;
+  justify-content: space-around;
+}
